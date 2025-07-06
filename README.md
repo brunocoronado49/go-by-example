@@ -13,7 +13,8 @@ This repository contains a collection of simple examples that demonstrate variou
 *   **Switch**: Using `switch` statements.
 *   **Arrays**: Working with arrays.
 *   **Slices**: A deep dive into slices.
+*   **Maps**: A examples for `maps` and how to use it
 
 ## Author 👨‍💻
 
-This project was created by [brunocoronado49](https://github.com/brunocoronado49).
+This project was created by [brunocoronado49](https://github.com/brunocoronado49). Based on [Go by example](https://gobyexample.com)
