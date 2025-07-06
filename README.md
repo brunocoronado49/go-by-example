@@ -14,6 +14,7 @@ This repository contains a collection of simple examples that demonstrate variou
 *   **Arrays**: Working with arrays.
 *   **Slices**: A deep dive into slices.
 *   **Maps**: A examples for `maps` and how to use it
+*   **Functions**: Examples of functions with return 
 
 ## Author 👨‍💻
 
