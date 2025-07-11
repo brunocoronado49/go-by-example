@@ -31,6 +31,10 @@ Here is a list of the examples available in this repository:
 *   [Closures](./closures/): Understanding closures in Go.
 *   [Recursion](./recursion/): Demonstrates recursive functions.
 *   [Pointers](./pointers/): Working with pointers.
+*   [Structs](./structs/): Working with structs.
+*   [Methods](./methods/): Working with methods.
+*   [Interfaces](./interfaces/): Working with interfaces.
+*   [Strings and Runes](./strings-runes/): Working with strings and runes.
 
 ## Contributing 🤝
 
