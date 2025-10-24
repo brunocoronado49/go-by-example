@@ -41,5 +41,6 @@ Here is a list of the examples available in this repository:
 Contributions are welcome! If you have an example you'd like to add or an improvement to an existing one, please feel free to open a pull request.
 
 ## Author 👨‍💻
+Francisco Rangel (Bruno)
 
 This project was created by [brunocoronado49](https://github.com/brunocoronado49).
